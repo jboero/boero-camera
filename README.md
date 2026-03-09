@@ -16,11 +16,11 @@ WARNING vibe coded with Claude Opus v4.6. I tried occasionally for a few years t
 - 📊 **AV1 bitrate slider** — 2–40 Mbps (VBR; Tensor G3 encoder supports CBR/VBR only, no CQ)
 - 📐 **Aspect ratio** — 4:3 / 16:9
 
-<img width="25%" alt="Screenshot_20260309-163705" src="https://github.com/user-attachments/assets/df334466-a9d6-4247-9c17-b6f4f779ceb0" />
-<img width="25%" alt="Screenshot_20260309-163714" src="https://github.com/user-attachments/assets/eb6523c9-d3db-48b3-a03d-f036b3d72dbe" />
-<img width="25%" alt="Screenshot_20260309-163629" src="https://github.com/user-attachments/assets/dba59dff-be3e-455f-b330-b147652c43e3" />
-<img width="25%" alt="Screenshot_20260309-163701" src="https://github.com/user-attachments/assets/0d7f6495-f657-418e-8bcb-ae51f4ee3b6a" />
-<img width="50%" alt="Screenshot_20260309-163651" src="https://github.com/user-attachments/assets/5bf2dee7-ae9a-4989-9b2e-93522f9af0e3" />
+<img width="20%" alt="Screenshot_20260309-163705" src="https://github.com/user-attachments/assets/df334466-a9d6-4247-9c17-b6f4f779ceb0" />
+<img width="20%" alt="Screenshot_20260309-163714" src="https://github.com/user-attachments/assets/eb6523c9-d3db-48b3-a03d-f036b3d72dbe" />
+<img width="20%" alt="Screenshot_20260309-163629" src="https://github.com/user-attachments/assets/dba59dff-be3e-455f-b330-b147652c43e3" />
+<img width="20%" alt="Screenshot_20260309-163701" src="https://github.com/user-attachments/assets/0d7f6495-f657-418e-8bcb-ae51f4ee3b6a" />
+<img width="100%" alt="Screenshot_20260309-163651" src="https://github.com/user-attachments/assets/5bf2dee7-ae9a-4989-9b2e-93522f9af0e3" />
 
 
 ## Requirements
